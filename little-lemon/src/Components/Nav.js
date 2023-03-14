@@ -4,7 +4,7 @@ import Logo from '../assets/Logo.svg';
 
 function NavBar() {
     return (
-        <nav>
+        <nav id="navbar">
             <img src={Logo} alt="Little Lemon Logo" />
             <ul>
                 {/* <li>
