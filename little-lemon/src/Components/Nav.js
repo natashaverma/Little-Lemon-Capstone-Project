@@ -7,11 +7,8 @@ function NavBar() {
         <nav id="navbar">
             <img src={Logo} alt="Little Lemon Logo" />
             <ul>
-                {/* <li>
-                    <Link to="/">Home</Link>
-                </li> */}
                 <li>
-                    <a href="#home">Home</a>
+                    <Link to="/">Home</Link>
                 </li>
                 <li>
                     <a href="#about">About</a>
