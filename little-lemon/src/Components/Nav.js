@@ -16,9 +16,9 @@ function NavBar() {
                 <li>
                     <a href="#menu">Menu</a>
                 </li>
-                {/* <li>
+                <li>
                     <Link to="/booking">Reservations</Link>
-                </li> */}
+                </li>
                 <li>
                     <a href="#order-online">Order Online</a>
                 </li>

@@ -14,7 +14,7 @@ const Header = () => {
                     recipes served with a modern twist.
                 </p>
                 <button>
-                    Reserve a table
+                    <Link to="/booking">Reserve a table</Link>
                 </button>
             </div>
             <div className="right-side">
